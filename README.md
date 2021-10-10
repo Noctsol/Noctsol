@@ -1,13 +1,9 @@
 - 👋 Hi, I’m @Noctsol
 
-- 👀 I’m interested in ...
-  - Probably everything given enough depth and interest
-- 🌱 I’m currently learning ...
-  - How build cheap application with decent i/o
-- 💞️ I’m looking to collaborate on ...
-  - Building Nano Wrappers in different languages
-- 📫 How to reach me ... 
-  - Not sure
+I have no clue what I am doing. I've been telling people this for the last 4 years, but they keep paying me more.
+I don't what's worse. The idea that everyone is like me, or that I might be competent.
+
+We're all idiots in both scenarios. So let's get along and pull out some duct tape.
 
 <!---
 Noctsol/Noctsol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
