@@ -1,11 +1,20 @@
-- 👋 Hi, I’m @Noctsol
+👋 Hi, I’m @Noctsol
 
-I have no clue what I am doing. I've been telling people this for the last 4 years, but they keep paying me more.
-I don't what's worse. The idea that everyone is like me, or that I might be competent.
+I have no clue what I am doing. Let's get along and pull out some duct tape.
 
-We're all idiots in both scenarios. So let's get along and pull out some duct tape.
+**About Me:**
+- I'm lazy, and I assume I am incompetent. Therefore:
+  - If a tool exists that already solves my problem, I would rather use that
+  - If I can use a managed instance of something, I would rather use that
+  - The less work I have to do, the better
+  - The less my human incompetency can mess with my work, the better
 
-_laborare quia spes_
+- I generally prefer clarity when coding. Therefore:
+  - I will generally write code in an easy to understand manner
+  - Not use ungodly amounts of shorthand
+  - Try to write code in a human-readable manner
+
+_Laborare quia spes_
 
 <!---
 Noctsol/Noctsol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
