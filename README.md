@@ -10,7 +10,7 @@ I have no clue what I am doing. Let's get along and pull out some duct tape.
   - The less my human incompetency can mess with my work, the better
 
 - I generally prefer clarity when coding. Therefore:
-  - I will generally write code in an easy to understand manner
+  - I will generally write code in an easy to understand manner especially if performance does not matter
   - Not use ungodly amounts of shorthand
   - Try to write code in a human-readable manner
 
